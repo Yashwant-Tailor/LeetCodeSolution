@@ -1,2 +1,2 @@
 # LeetCodeSolution
-Find solution for leetcode problems
+Find solution for leetcode problems.
